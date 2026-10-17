@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# temporários e capturas de teste
+video/tmp/
+video/*.log
+images/sr_tmp/
+qa/shots/
+qa/lighthouse/
+.wrangler/
+node_modules/
+
+# vídeo vertical para Reels (38 MB, não vai para o site) — fica só no computador
+video/out/

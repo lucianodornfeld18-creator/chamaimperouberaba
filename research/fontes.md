@@ -1,0 +1,58 @@
+# Fontes dos fatos externos
+
+Cada fato sobre Uberaba, Expozebu e turismo publicado no site precisa de uma fonte aqui (URL — o que ela confirma). Regras em docs/WRITING-GUIDE.md, seção 3.
+
+## Guia O que fazer em Uberaba
+
+Página: `/guia/o-que-fazer-em-uberaba/` (site/pages/guia_o_que_fazer_em_uberaba.py). Fontes consultadas em 16/10/2026.
+
+### Geoparque, dinossauros e Peirópolis
+- https://www.unesco.org/en/iggp/uberaba-unesco-global-geopark — nome oficial "Uberaba UNESCO Global Geopark", Brasil, designação em 2024, área de cerca de 4.523 km² (452.300 ha), título "Land of the Giants" (Terra de Gigantes), mais de 10 mil fósseis do Cretáceo Superior, Uberabatitan ribeiroi com cerca de 27 m de comprimento e 10 m de altura; lista os geossítios Peirópolis e Serra da Galga.
+- https://www.unesco.org/en/articles/unesco-names-18-new-geoparks — comunicado da UNESCO de 27/03/2024: Uberaba entra na rede (213 geoparques em 48 países).
+- https://www.agenciaminas.mg.gov.br/noticia/geoparque-uberaba-terra-de-gigantes-e-o-primeiro-patrimonio-geologico-de-minas-gerais-reconhecido-pela-unesco — 27/03/2024: "primeiro patrimônio geológico de Minas Gerais reconhecido pela Unesco"; território de 4.523,957 km² que "engloba todo o município de Uberaba"; seis geossítios (Ponte Alta, Caieira, Univerdecidade, Serra da Galga, Santa Rita e Vale Encantado) e dois sítios não geológicos (Museu dos Dinossauros em Peirópolis e Museu da Cal); sexto geoparque brasileiro.
+- https://dti.uftm.edu.br/museudosdinossauros — página da UFTM: Museu dos Dinossauros integra o Complexo Cultural e Científico de Peirópolis (CCCP), ligado à UFTM; 3 espaços musealizados (um a céu aberto, um na antiga estação ferroviária de Peirópolis e uma mostra no hall do CCCP); réplicas em esqueleto, reconstruções em vida, cenários e dioramas; mediadores treinados; centenas de fósseis de Uberabatitan ribeiroi encontrados em 2004 na Serra da Galga, na duplicação da BR-050; link "Agendamento para Visitas". A página não traz horário nem ingresso (nada disso foi publicado).
+- https://portal.uberaba.mg.gov.br/res/doc/desenvolvimento/index.html — Prefeitura de Uberaba: "Uberaba. Terra de Gigantes."; cidade reconhecida como Geoparque Mundial pela UNESCO; apresenta-se como "Capital Mundial do Zebu".
+- https://www.uai.com.br/cidades/2025/12/02/essa-cidade-no-interior-de-minas-gerais-se-tornou-referencia-como-a-terra-dos-dinossauros/ — UAI, 02/12/2025: Museu dos Dinossauros e Centro de Pesquisas exibem réplicas em tamanho real e fósseis originais; visita descrita como educativa, para crianças e adultos.
+- https://www.em.com.br/emfoco/2026/06/03/a-capital-mundial-do-zebu-guarda-o-maior-dinossauro-encontrado-no-brasil-e-virou-o-1o-geoparque-da-unesco-em-minas-gerais/ — Estado de Minas, 03/06/2026: reconhecimento em 27/03/2024, primeiro geoparque de MG; Peirópolis é distrito rural; Museu do Zebu no Parque Fernando Costa. Cita 31 geossítios catalogados (20 urbanos), contagem que diverge da lista de seis da Agência Minas (a página usa só a lista da Agência Minas).
+- https://www.correio24horas.com.br/brasil/geoparque-de-uberaba-em-minasobtemreconhecimento-da-unesco-0324 — 28/03/2024: confirma os seis geossítios e os dois sítios não geológicos, área de 4.523,957 km².
+- https://diariodocomercio.com.br/turismo/chancelada-unesco-uberaba-geoparque-mundial/ — 27/03/2024: título concedido em 27/03 ("nesta quarta-feira (27)"), único geoparque da região Sudeste.
+- https://catracalivre.com.br/viagem-livre/antes-do-zebu-uberaba-mg-ja-era-habitada-por-gigantes/ — Catraca Livre, 15/07/2026: Peirópolis a cerca de 20 km de Uberaba; a legenda diz que a antiga estação (onde fica parte do museu) "está passando por reforma" (por isso a página manda confirmar quais espaços estão abertos). Também cita fóssil exposto no Geossítio Santa Rita (fato de fonte única, não publicado).
+
+### Expozebu, ABCZ e Museu do Zebu
+- https://www.itatiaia.com.br/economia/negocios/eloos/expozebu-comeca-neste-sabado-25-na-expectativa-de-receber-400-mil-visitantes/ — Rádio Itatiaia, 25/04/2026: 91ª edição, de 25/04 a 03/05/2026, Parque de Exibições Fernando Costa, mais de 400 mil visitantes esperados, organização da ABCZ, julgamentos de 26/04 a 02/05.
+- https://www.itatiaia.com.br/agro/expozebu-e-aberta-com-desfile-de-racas-nobres-em-frente-a-autoridades/ — Rádio Itatiaia, 25/04/2026: 91ª edição aberta no sábado (25) no Parque Fernando Costa; feira até 3 de maio; leilões.
+- https://diariodocomercio.com.br/agronegocio/xpozebu-2026-faturamento-expansao/ — Diário do Comércio, 24/04/2026: 91ª edição de 25/04 a 03/05, Parque Fernando Costa, mais de 400 mil visitantes, cerca de 2,7 mil animais, organizada pela ABCZ.
+- https://www.canalrural.com.br/diversos/expozebu-2026-comeca-neste-sabado-em-uberaba-com-400-mil-visitantes/ — Canal Rural, 25/04/2026 (a página bloqueou o acesso direto; só o resumo da busca foi lido): programação com julgamentos, leilões, palestras, rodeio e shows.
+- https://cnabrasil.org.br/noticias/presidente-da-cna-participa-da-abertura-oficial-da-90-expozebu — CNA, 26/04/2025: abertura oficial da 90ª Expozebu no sábado 26/04/2025, Parque de Exposições Fernando Costa, realizada pela ABCZ.
+- https://www.itatiaia.com.br/agro/abcz-anuncia-sua-89-expozebu-com-expectativa-de-movimentar-r-450-milhoes-em-negocios-veja-atracoes/ — Rádio Itatiaia, 20/03/2024: 89ª Expozebu no Parque Fernando Costa de 27/04 a 05/05/2024.
+- https://www.itatiaia.com.br/agro/expozebu-confirma-shows-de-ana-castela-gusttavo-lima-e-gustavo-mioto/ — Rádio Itatiaia, 11/04/2023: 88ª edição de 29/04 a 07/05/2023, com shows musicais (reforça "costuma ocupar o fim de abril e o começo de maio" e a presença de shows).
+- https://www.expozebu.com.br — site da ABCZ para a feira (as datas da próxima edição não estavam publicadas em 16/10/2026; por isso a página só manda acompanhar o site).
+- https://www.abcz.org.br — site da ABCZ; sede em Uberaba (Praça Vicentino Rodrigues da Cunha, 110, bairro São Benedito); a página não afirma "maior feira do mundo" (a expressão não foi usada).
+- https://diariodoturismo.com.br/gastronomia-cultura-e-fe-uberaba-revela-seus-principais-atrativos-turisticos/ — Diário do Turismo, 04/07/2026: Museu do Zebu – Edilson Lamartine Mendes "instalado no Parque Fernando Costa", mantenedora ABCZ, visitação com agendamento prévio. Na mesma matéria: Casa da Prece onde Chico atendia, túmulo no Cemitério São João Batista, estátua de bronze, Casa de Memórias e Lembranças na Rota dos Museus Orgânicos, Igreja Santa Rita de 1854 com o Museu de Arte Sacra e Mercado Municipal com queijos e doces.
+
+### Chico Xavier e centro de Uberaba
+- https://www.dgabc.com.br/Noticia/256009/milhares-de-pessoas-visitam-velorio-de-chico-xavier — Diário do Grande ABC, 01/07/2002: Chico Xavier morreu em casa, em Uberaba, em 30/06/2002; velório na Casa da Prece; sepultamento previsto no Cemitério São João Batista.
+- https://www.correiobraziliense.com.br/turismo/2024/07/6898355-memorial-chico-xavier-e-reinaugurado-em-uberaba.html — Correio Braziliense, 15/07/2024: Memorial Chico Xavier reinaugurado em 2024 (22 anos após a morte), exposição imersiva com objetos pessoais e quatro galerias, ligado à Fundação Cultural de Uberaba. A matéria também traz horário e retirada de ingresso por plataforma; não foram publicados porque mudam e outras fontes divergem.
+- https://www.brasil247.com/tendencias/?p=21294 — Brasil 247, 16/07/2026: Memorial na Av. João XXIII (Parque Municipal Mata do Carrinho), quatro galerias; Casa de Memórias e Lembranças preserva a residência do médium com pertences pessoais e visita guiada.
+- https://diariodoturismo.com.br/uberaba-valoriza-originalidade-artistica-e-lanca-nova-rota-de-museus-organicos/ — Diário do Turismo, 08/07/2026: Rota dos Museus Orgânicos lançada em meados de junho de 2026, nove espaços (ateliês, oficinas, doceria, Museu Casa de Memórias e Lembranças Chico Xavier etc.), visitação mediante agendamento.
+- https://catracalivre.com.br/viagem-livre/museus-organicos-mantem-a-memoria-de-uberaba-viva/ — Catraca Livre, 17/07/2026: Rota lançada oficialmente em junho de 2026; Casa de Memórias reúne objetos pessoais, fotografias, manuscritos, móveis e documentos; os mestres definem os períodos de funcionamento.
+- https://catracalivre.com.br/viagem-livre/uberaba-mg-vai-muito-alem-do-zebu-e-de-chico-xavier/ — Catraca Livre, 13/07/2026: Memorial, Casa de Memórias, casa onde Chico morou, Grupo Espírita da Prece ("reuniões públicas durante décadas"), estátua de bronze no centro; Museu de Arte Sacra na Igreja de Santa Rita (1854); Mercado Municipal inaugurado em 1924.
+
+### Perto de Uberaba
+- site/_data.py (DISTANCES, OSRM/OpenStreetMap, outubro de 2026) — Uberlândia cerca de 107 km e Araxá cerca de 119 km de rodovia a partir do centro de Uberaba (a página lê os valores de D.DISTANCES).
+- https://www.mg.gov.br/iepha/bem/bem-tombado/complexo-hidrotermal-e-hoteleiro-do-barreiro-araxa — IEPHA-MG: Complexo Hidrotermal e Hoteleiro do Barreiro (Araxá), com Grande Hotel e Termas, jardins de Burle Marx, tombado pela Constituição estadual de 1989.
+- https://www.correiobraziliense.com.br/cbradar/a-4a-melhor-cidade-do-brasil-para-viver-encanta-com-um-parque-maior-que-180-campos-de-futebol/ — Correio Braziliense (Radar), 22/07/2026: Parque do Sabiá (Uberlândia) com zoológico, aquário e lago artificial.
+
+### Omitido de propósito (não confirmado, divergente ou proibido pelo guia)
+- Horários e preços: nenhum foi publicado. Um guia do QuintoAndar (29/09/2026) fala em ingresso de R$ 15 no Memorial, enquanto o Correio Braziliense (2024) diz que a visita era gratuita com ingresso pela Sympla; a divergência confirma que a página deve mandar confirmar.
+- Parques (Mata do Ipê, Parque das Acácias, Parque das Barrigudas): só guias comerciais (QuintoAndar, Buser, Wanderlog), com bairro divergente e relatos de trilhas fechadas; sem fonte oficial. Não entraram na página.
+- Vale Encantado: só o nome, como geossítio listado pela Agência Minas. Preço, cachoeira e acesso (BR-262 km 784 ou BR-050) aparecem de forma contraditória num mesmo guia comercial.
+- Distância de Peirópolis ao centro: a UFTM cita 25 km num trecho e 22 km em outro; o Estado de Minas cita 25 km e o Catraca Livre cerca de 20 km. A página escreve "entre 20 e 25 km, segundo as fontes consultadas".
+- Tamanho do Uberabatitan: UNESCO cerca de 27 m, UFTM mais de 26 m, Estado de Minas mais de 20 m. A página usa "cerca de 27 metros" atribuído à UNESCO.
+- Data do título: uma notícia da Câmara Municipal (resultado de busca, não aberta) fala em 24/03/2024; UNESCO e Agência Minas dizem 27/03/2024, a data usada.
+- Igreja de Santa Rita "tombada pelo Iphan em 1939": só sites de viagem (Buser, Expedia), sem fonte oficial. Não publicado. Um guia também citava o Museu de Arte Sacra na "antiga Cadeia Pública"; duas matérias de 2026 dizem que fica na Igreja de Santa Rita, versão usada.
+- Grupo Espírita da Prece / Casa da Prece: nenhuma fonte confirma regras atuais de visita; a página descreve só o papel histórico e manda se informar.
+- "Maior feira de gado zebu do mundo": só em imprensa, não no site da ABCZ; não usado nesta página (a expressão aparece na página de hospedagem da Expozebu, de outro autor).
+- Datas da Expozebu 2027: não encontradas em 16/10/2026.
+- Site oficial do geoparque: o portal da Prefeitura aponta para geoparqueuberaba.com.br, que em 16/10/2026 mostrava uma página de domínio estacionado da Hostinger; visiteuberaba.com.br (portal de turismo lançado em 2021) não resolvia. Nenhum dos dois foi linkado.
+- Beer Tour, vinícola Arpuro, restaurantes e outros negócios privados citados em reportagens: fora do escopo.

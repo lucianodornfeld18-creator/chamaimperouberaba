@@ -1,0 +1,926 @@
+{
+ "piscina-banco": {
+  "slug": "chacara-imperio-uberaba-piscina-com-palmeira",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ],
+   "2000": [
+    2000,
+    1318
+   ]
+  },
+  "ratio": 1.518
+ },
+ "piscinas-casa": {
+  "slug": "chacara-imperio-uberaba-piscina-adulto-e-infantil",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "piscinas-vista": {
+  "slug": "chacara-imperio-uberaba-duas-piscinas",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "piscina-luminarias": {
+  "slug": "chacara-imperio-uberaba-area-da-piscina",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "piscina-ceu": {
+  "slug": "chacara-imperio-uberaba-piscina-e-jardim",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "piscina-deque": {
+  "slug": "chacara-imperio-uberaba-deque-da-piscina",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "piscina-casa-principal": {
+  "slug": "chacara-imperio-uberaba-piscina-e-casa-principal",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "piscinas-noite": {
+  "slug": "chacara-imperio-uberaba-piscinas-iluminadas-a-noite",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "piscina-noite-2": {
+  "slug": "chacara-imperio-uberaba-piscina-a-noite",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "varanda-piscina": {
+  "slug": "chacara-imperio-uberaba-varanda-com-vista-para-a-piscina",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "area-coberta-mesas": {
+  "slug": "chacara-imperio-uberaba-area-coberta-com-mesas",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "salao": {
+  "slug": "chacara-imperio-uberaba-salao-coberto-para-festas",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "churrasqueira": {
+  "slug": "chacara-imperio-uberaba-churrasqueira",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "gourmet-bar": {
+  "slug": "chacara-imperio-uberaba-area-gourmet-com-bar",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "gourmet-noite": {
+  "slug": "chacara-imperio-uberaba-area-gourmet-a-noite",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "varanda-mesa": {
+  "slug": "chacara-imperio-uberaba-varanda-com-mesa-de-madeira",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "varanda-noite": {
+  "slug": "chacara-imperio-uberaba-varanda-a-noite",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "alameda": {
+  "slug": "chacara-imperio-uberaba-entrada-e-campo-de-futebol",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "estacionamento": {
+  "slug": "chacara-imperio-uberaba-estacionamento",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "parquinho": {
+  "slug": "chacara-imperio-uberaba-parquinho",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "casa-gramado": {
+  "slug": "chacara-imperio-uberaba-casa-e-gramado",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "pergola-jardim": {
+  "slug": "chacara-imperio-uberaba-pergola-no-jardim",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "pergola-varanda": {
+  "slug": "chacara-imperio-uberaba-pergola-e-gramado",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "jardim-coqueiro": {
+  "slug": "chacara-imperio-uberaba-jardim-com-coqueiro",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "jardim-lateral": {
+  "slug": "chacara-imperio-uberaba-jardim-lateral",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "jardim-banco": {
+  "slug": "chacara-imperio-uberaba-jardim-com-banco",
+  "variants": {
+   "480": [
+    480,
+    359
+   ],
+   "800": [
+    800,
+    599
+   ],
+   "1200": [
+    1200,
+    898
+   ],
+   "1600": [
+    1600,
+    1198
+   ]
+  },
+  "ratio": 1.336
+ },
+ "carro-de-boi": {
+  "slug": "chacara-imperio-uberaba-carro-de-boi-e-pergola",
+  "variants": {
+   "480": [
+    480,
+    359
+   ],
+   "800": [
+    800,
+    598
+   ],
+   "1200": [
+    1200,
+    897
+   ],
+   "1600": [
+    1600,
+    1196
+   ]
+  },
+  "ratio": 1.3375
+ },
+ "jardim-noite": {
+  "slug": "chacara-imperio-uberaba-jardim-iluminado-a-noite",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "pergola-noite": {
+  "slug": "chacara-imperio-uberaba-pergola-iluminada",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "carro-de-boi-noite": {
+  "slug": "chacara-imperio-uberaba-carro-de-boi-a-noite",
+  "variants": {
+   "480": [
+    480,
+    359
+   ],
+   "800": [
+    800,
+    599
+   ],
+   "1200": [
+    1200,
+    898
+   ],
+   "1600": [
+    1600,
+    1198
+   ]
+  },
+  "ratio": 1.336
+ },
+ "coqueiro-noite": {
+  "slug": "chacara-imperio-uberaba-coqueiro-iluminado",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "portao-noite": {
+  "slug": "chacara-imperio-uberaba-portao-de-entrada",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "sala": {
+  "slug": "chacara-imperio-uberaba-sala-de-estar-e-jantar",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "sala-2": {
+  "slug": "chacara-imperio-uberaba-sala",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "cozinha": {
+  "slug": "chacara-imperio-uberaba-cozinha",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "suite-1": {
+  "slug": "chacara-imperio-uberaba-suite-cama-de-casal-e-beliches",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "suite-2": {
+  "slug": "chacara-imperio-uberaba-suite-com-beliches",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "suite-3": {
+  "slug": "chacara-imperio-uberaba-suite-iluminada",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "suite-4": {
+  "slug": "chacara-imperio-uberaba-suite-com-banheiro",
+  "variants": {
+   "480": [
+    480,
+    319
+   ],
+   "800": [
+    800,
+    531
+   ],
+   "1200": [
+    1200,
+    797
+   ],
+   "1600": [
+    1600,
+    1062
+   ]
+  },
+  "ratio": 1.5064
+ },
+ "suite-5": {
+  "slug": "chacara-imperio-uberaba-suite-com-ventilador",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "suite-6": {
+  "slug": "chacara-imperio-uberaba-suite-forro-de-madeira",
+  "variants": {
+   "480": [
+    480,
+    316
+   ],
+   "800": [
+    800,
+    527
+   ],
+   "1200": [
+    1200,
+    791
+   ],
+   "1600": [
+    1600,
+    1054
+   ]
+  },
+  "ratio": 1.518
+ },
+ "anfitrioes": {
+  "slug": "maria-ines-e-luciano-anfitrioes-chacara-imperio",
+  "variants": {
+   "400": [
+    400,
+    500
+   ],
+   "640": [
+    640,
+    800
+   ],
+   "960": [
+    960,
+    1200
+   ]
+  },
+  "ratio": 0.8
+ }
+}
