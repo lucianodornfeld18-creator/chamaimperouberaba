@@ -47,5 +47,6 @@ Playwright só para as capturas.
   buffet e roupa de cama só entram quando os donos informarem.
 - Fotos com o letreiro antigo "Chácara Alaska" foram retocadas (`retouch` em `_photos.py`); a foto
   `airbnb-03` não é usada.
-- Para publicar: `cd site && npx wrangler pages deploy dist --project-name chacaraimperiouberaba`
-  (o `functions/` é lido da pasta atual). Domínio próprio: ver `docs/OWNER-INPUTS.md`.
+- Para publicar: `python site/build.py`, `python qa/qa_all.py`, depois `git commit` + `git push` — a
+  Cloudflare Pages (projeto `chacaraimperio`) publica `site/dist` sozinha. Passo a passo e domínio em
+  `docs/PUBLICAR.md`.
